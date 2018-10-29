@@ -10,5 +10,5 @@
 * Analyzation of Languages Overall and by Location
   * Scroll to bottom of navbar for link to Analyzation page
   
-## Link to Live Demo: http://twine-github-job-search.herokuapp.com/
-and http://twine-github-job-search.herokuapp.com/analytics
+## Link to Live Demo: 
+http://twine-github-job-search.herokuapp.com/ and http://twine-github-job-search.herokuapp.com/analytics
