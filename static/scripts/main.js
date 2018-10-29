@@ -37,7 +37,7 @@ $(document).ready(function () {
 
   function getJobs(q='') {
 
-    var q1 = q ? '?' + q + '&page=' + pagination : '';
+    var q1 = q ? '?' + q + '&page=' + pagination : '?page=' + pagination;
 
     $.ajax({
       dataType: "jsonp",
