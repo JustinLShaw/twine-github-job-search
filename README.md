@@ -7,7 +7,7 @@
 * Filter by Full Time
 * Pagination
   * Scroll to bottom of navbar for > symbol
-* Analyzation of Languages Overall and by Location
+* Analyzation of Languages (Overall and by Location)
   * Scroll to bottom of navbar for link to Analyzation page
   
 ## Link to Live Demo: 
